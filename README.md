@@ -1,2 +1,8 @@
 # Linear-Regression-Task
-Data Science &amp; Business Analytics Internship Task 1
+### To Predict the Percentage of a Student based on the number of study hours using Supervised ML
+
+# DataSet
+Dataset can be at this [Link](http://bit.ly/w-data) 
+
+# Model Accuracy
+- 94 %
